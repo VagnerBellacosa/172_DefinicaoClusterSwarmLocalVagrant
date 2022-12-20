@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Definição de um cluster Swarm local com o Vagrant](https://web.dio.me/lab/definicao-de-um-cluster-swarm-local-com-o-vagrant/learning/406dc0e5-8784-466e-ae61-a460305f401d)[Materiais de apoio](https://web.dio.me/lab/definicao-de-um-cluster-swarm-local-com-o-vagrant/learning/2bf8eb36-55ed-4605-899d-77621c7d0e83)
+- [Definição de um cluster Swarm local com o Vagrant](https://web.dio.me/lab/definicao-de-um-cluster-swarm-local-com-o-vagrant/learning/406dc0e5-8784-466e-ae61-a460305f401d)
+- [Materiais de apoio](https://web.dio.me/lab/definicao-de-um-cluster-swarm-local-com-o-vagrant/learning/2bf8eb36-55ed-4605-899d-77621c7d0e83)
 
 
 
